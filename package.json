@@ -29,7 +29,7 @@
     "@mui/x-data-grid": "^4.0.0",
     "@ueno-tecnologia-org/ueno-bo-shared": "^0.0.24-r1",
     "axios": "^0.21.1",
-    "axios-hooks": "^2.6.3",
+    "axios-hooks": "^5.0.2",
     "husky": "^7.0.2",
     "joi": "^17.4.2",
     "ramda": "^0.27.1",
