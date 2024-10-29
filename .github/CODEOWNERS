@@ -1,0 +1,3 @@
+
+# Specify the code owners for each directory and file
+terraform/prd/  @ueno-tecnologia-org/up-cloud-core

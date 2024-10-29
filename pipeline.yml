@@ -1,0 +1,4 @@
+nodeVersion: 16
+kind: frontendApp
+appName: my-project
+deploymentTimeOut: 300

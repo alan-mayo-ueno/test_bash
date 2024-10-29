@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base",
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": "./src",
+    "types": ["webpack", "webpack-merge", "jest"],
+    "paths": {
+      "*": ["*"],
+    },
+  }
+}

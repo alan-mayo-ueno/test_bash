@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": "f79e3458-c34a-4dc7-a49e-9fadc0979fda",
+            "userId": "1",
+            "title": "post 1",
+            "body": "el body del post 1"
+        },
+        {
+            "id": "f79987e8-c34a-4dc7-a49e-9fadc0979fda",
+            "userId": "2",
+            "title": "post 2",
+            "body": "el body del post 2"
+        },
+        {
+            "id": "f79567e8-c34a-4dc7-a49e-9fadc0979fda",
+            "userId": "3",
+            "title": "post 3",
+            "body": "el body del post 3"
+        },
+        {
+            "id": "f79653e8-c34a-4dc7-a49e-9fadc0979fda",
+            "userId": "4",
+            "title": "post 4",
+            "body": "el body del post 4"
+        }
+    ]
+}
